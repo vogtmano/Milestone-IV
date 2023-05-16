@@ -12,3 +12,14 @@ Your challenge is to put two different projects into one: I’d like you to let 
 
 ## Screenshots
 
+<img src="https://github.com/vogtmano/Milestone-IV/assets/92689831/4361c2d3-452a-4aaf-8bf8-c8098188cdbd" width=300 height=520>
+
+<img src="https://github.com/vogtmano/Milestone-IV/assets/92689831/40ba720c-d002-4a86-8a80-e9a312877af4" width=300 height=520>
+
+<img src="https://github.com/vogtmano/Milestone-IV/assets/92689831/24ce159b-5ed6-42db-9f2f-60addf810672" width=300 height=520>
+
+<img src="https://github.com/vogtmano/Milestone-IV/assets/92689831/30e45b6a-5e4d-4498-a4ce-42d4b74583f6" width=300 height=520>
+
+<img src="https://github.com/vogtmano/Milestone-IV/assets/92689831/da391a99-47db-4a01-a641-4aeb31b91546" width=300 height=520>
+
+<img src="https://github.com/vogtmano/Milestone-IV/assets/92689831/47c9800c-7d8e-47ee-a6b1-af32c0cf6800" width=300 height=520>
